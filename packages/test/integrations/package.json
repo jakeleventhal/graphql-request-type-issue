@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "graphql-request": "7.0.1"
+  },
+  "devDependencies": {
+    "@test/tsconfig": "workspace:*"
+  },
+  "files": [
+    "src"
+  ],
+  "main": "src/index",
+  "name": "@test/integrations",
+  "types": "src/index"
+}

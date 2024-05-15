@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "pnpm": "8.15.7",
+    "typescript": "5.4.5"
+  },
+  "name": "test",
+  "private": true
+}
